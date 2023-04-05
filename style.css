@@ -1,0 +1,45 @@
+
+body 
+{
+background-color:#a4161a;
+text-align: center;
+}
+
+h1
+{
+color:black;
+border-style: solid;
+border-color:withe;
+border-width:2px;
+padding: 10px;
+}
+
+#nome_desenho
+{
+text-decoration: underline;
+font-size:40px;
+} 
+
+a  
+{
+color: withe;
+font-size:20px;
+border-style:solid;
+border-color:darkblue;
+border-width: 2px;
+padding: 10px;
+border-radius: 20px;
+}
+
+p{
+color:dark;
+word-spacing: 10px;
+font-variant:small-caps;
+font-size: 20px;
+font-family: Arial;
+}
+
+.mais_sobre_desenho{
+      color:darkblue;
+      font-size: 18px;
+}
